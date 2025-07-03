@@ -10,7 +10,7 @@ Welcome to the **Plant Care Library** — a responsive React application to expl
 ---
 
 ## 🚀 Live Demo
-[👉 View the deployed application here](https://your-deployment-link.com)
+[👉 View the deployed application here]([https://your-deployment-link.com](https://plant-care-for-living.netlify.app/))
 
 *(Replace with your actual Netlify / Vercel / GitHub Pages URL if deployed)*
 
@@ -19,6 +19,28 @@ Welcome to the **Plant Care Library** — a responsive React application to expl
 ## ⚙️ How to run the application locally
 
 1. **Clone the repository**
-```bash
+```
 git clone https://github.com/yourusername/plant-care-library.git
 cd plant-care-library
+npm install
+npm run dev
+```
+2.**Technical Choices**
+```
+Vite + React: For fast bundling and smooth development experience.
+React functional components & hooks: Simple, modern React architecture.
+Bootstrap & react-bootstrap: To quickly create a clean, responsive UI without writing custom CSS from scratch.
+Manual state management: Since the application is simple, I used local state in components instead of Context API or Redux.
+JSON as mock data: Simulates an API call without needing a real backend.
+```
+3.**Features**
+```
+✅ Display a grid of plant cards with image, common name & scientific name
+✅ Search plants by common name in real-time
+✅ Filter plants by care level (Easy, Medium, Hard)
+✅ View detailed information about each plant in a modal
+✅ Hover effects & responsive design
+```
+
+
+
