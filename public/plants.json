@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "commonName": "Snake Plant",
+    "scientificName": "Sansevieria trifasciata",
+    "image": "/images/snake-plant.jpg",
+    "careLevel": "Easy",
+    "description": "A tough plant that thrives on neglect."
+  },
+  {
+    "id": 2,
+    "commonName": "Fiddle Leaf Fig",
+    "scientificName": "Ficus lyrata",
+    "image": "/images/fiddle-leaf-fig.jpg",
+    "careLevel": "Medium",
+    "description": "Large, violin-shaped leaves."
+  },
+  {
+    "id": 3,
+    "commonName": "Peace Lily",
+    "scientificName": "Spathiphyllum",
+    "image": "/images/peace-lily.jpg",
+    "careLevel": "Easy",
+    "description": "Beautiful white blooms and air-purifying."
+  },
+  {
+    "id": 4,
+    "commonName": "Boston Fern",
+    "scientificName": "Nephrolepis exaltata",
+    "image": "/images/boston-fern.jpg",
+    "careLevel": "Hard",
+    "description": "Needs high humidity and indirect light."
+  },
+  {
+    "id": 5,
+    "commonName": "Spider Plant",
+    "scientificName": "Chlorophytum comosum",
+    "image": "/images/spider-plant.jpg",
+    "careLevel": "Easy",
+    "description": "Produces 'pups' and purifies air."
+  },
+  {
+    "id": 6,
+    "commonName": "Monstera",
+    "scientificName": "Monstera deliciosa",
+    "image": "/images/monstera.jpg",
+    "careLevel": "Medium",
+    "description": "Iconic split leaves, loves humidity."
+  },
+  {
+    "id": 7,
+    "commonName": "English Ivy",
+    "scientificName": "Hedera helix",
+    "image": "/images/english-ivy.jpg",
+    "careLevel": "Hard",
+    "description": "Trailing plant, prefers cooler temps."
+  },
+  {
+    "id": 8,
+    "commonName": "ZZ Plant",
+    "scientificName": "Zamioculcas zamiifolia",
+    "image": "/images/zz-plant.jpg",
+    "careLevel": "Easy",
+    "description": "Tolerates low light and irregular watering."
+  },
+  {
+    "id": 9,
+    "commonName": "Rubber Plant",
+    "scientificName": "Ficus elastica",
+    "image": "/images/rubber-plant.jpg",
+    "careLevel": "Medium",
+    "description": "Shiny large leaves, moderate care."
+  },
+  {
+    "id": 10,
+    "commonName": "Calathea",
+    "scientificName": "Calathea orbifolia",
+    "image": "/images/calathea.jpg",
+    "careLevel": "Hard",
+    "description": "Striking foliage, sensitive to water quality."
+  },
+  {
+    "id": 11,
+    "commonName": "Jade Plant",
+    "scientificName": "Crassula ovata",
+    "image": "/images/jade-plant.jpg",
+    "careLevel": "Easy",
+    "description": "A popular succulent; symbolizes luck."
+  },
+  {
+    "id": 12,
+    "commonName": "Aloe Vera",
+    "scientificName": "Aloe barbadensis miller",
+    "image": "/images/aloe-vera.jpg",
+    "careLevel": "Easy",
+    "description": "Healing plant, needs bright light."
+  },
+  {
+    "id": 13,
+    "commonName": "Bird of Paradise",
+    "scientificName": "Strelitzia reginae",
+    "image": "/images/bird-of-paradise.jpg",
+    "careLevel": "Medium",
+    "description": "Large leaves, can flower indoors."
+  },
+  {
+    "id": 14,
+    "commonName": "Dracaena",
+    "scientificName": "Dracaena marginata",
+    "image": "/images/dracaena.jpg",
+    "careLevel": "Easy",
+    "description": "Thin, spiky leaves; low maintenance."
+  },
+  {
+    "id": 15,
+    "commonName": "Pothos",
+    "scientificName": "Epipremnum aureum",
+    "image": "/images/pothos.jpg",
+    "careLevel": "Easy",
+    "description": "Fast grower, tolerates low light."
+  },
+  {
+    "id": 16,
+    "commonName": "Chinese Evergreen",
+    "scientificName": "Aglaonema",
+    "image": "/images/chinese-evergreen.jpg",
+    "careLevel": "Medium",
+    "description": "Attractive patterned leaves."
+  },
+  {
+    "id": 17,
+    "commonName": "Parlor Palm",
+    "scientificName": "Chamaedorea elegans",
+    "image": "/images/parlor-palm.jpg",
+    "careLevel": "Easy",
+    "description": "Pet-friendly, low light tolerant."
+  },
+  {
+    "id": 18,
+    "commonName": "Kentia Palm",
+    "scientificName": "Howea forsteriana",
+    "image": "/images/kentia-palm.jpg",
+    "careLevel": "Medium",
+    "description": "Graceful fronds; elegant look."
+  },
+  {
+    "id": 19,
+    "commonName": "Croton",
+    "scientificName": "Codiaeum variegatum",
+    "image": "/images/croton.jpg",
+    "careLevel": "Hard",
+    "description": "Colorful leaves, loves humidity."
+  },
+  {
+    "id": 20,
+    "commonName": "Lucky Bamboo",
+    "scientificName": "Dracaena sanderiana",
+    "image": "/images/lucky-bamboo.jpg",
+    "careLevel": "Easy",
+    "description": "Often grown in water; brings luck."
+  }
+]
