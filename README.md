@@ -1,12 +1,24 @@
-# React + Vite
+🌱 Plant Care Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Plant Care Library** — a responsive React application to explore, search, and learn about different plants, built as part of the NIWAKEA NURTURE React Developer Intern task.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👤 Candidate
+**Name:** Prakhar Shrivastava
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo
+[👉 View the deployed application here](https://your-deployment-link.com)
+
+*(Replace with your actual Netlify / Vercel / GitHub Pages URL if deployed)*
+
+---
+
+## ⚙️ How to run the application locally
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/plant-care-library.git
+cd plant-care-library
