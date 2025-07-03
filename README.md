@@ -10,7 +10,7 @@ Welcome to the **Plant Care Library** — a responsive React application to expl
 ---
 
 ## 🚀 Live Demo
-[👉 View the deployed application here]([https://your-deployment-link.com](https://plant-care-for-living.netlify.app/))
+[👉 View the deployed application here]([https://plant-care-for-living.netlify.app/])
 
 *(Replace with your actual Netlify / Vercel / GitHub Pages URL if deployed)*
 
